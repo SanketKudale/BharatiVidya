@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "87684075789",
+    "firebase_url": "https://bharatividya-d28fb.firebaseio.com",
+    "project_id": "bharatividya-d28fb",
+    "storage_bucket": "bharatividya-d28fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87684075789:android:821aac208a09113fe4e044",
+        "android_client_info": {
+          "package_name": "com.sanket.padaayi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87684075789-a7rrm024cvm7398sifsumue9p13uos5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanket.padaayi",
+            "certificate_hash": "eaa3acd379f32c6e84cdc6819036717f9b04f446"
+          }
+        },
+        {
+          "client_id": "87684075789-7bgusmaubiedqksrvmqqjfeddfrelraa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1gecpCJBrOu9WXoMLS7DOr6DNzRIUG_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87684075789-7bgusmaubiedqksrvmqqjfeddfrelraa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="app_name">Bharati Vidya</string>
+    <string name="bharatiscript">भारतीस्क्रिप्ट</string>
+    <string name="navigation_drawer_open">नेव्हिगेशन ड्रॉवर उघडा</string>
+    <string name="navigation_drawer_close">नेव्हिगेशन ड्रॉवर बंद करा</string>
+    <string name="home_text">डॉ. श्रीनिवास चक्रवर्ती यांच्या नेतृत्वात मद्रासमधील इंडियन इन्स्टिट्यूट ऑफ टेक्नॉलॉजी (आयआयटी) च्या टीमने विकसित केलेल्या भारतीय भाषांसाठी ही पर्यायी लिपी आहे. या स्क्रिप्टमध्ये देवनागरी, बंगाली, गुरमुखी, गुजराती, उडिया, तेलगू, कन्नड, मल्याळम आणि तामिळ यांचा समावेश आहे. भारती अक्षरे उभ्या रचलेल्या तीन स्तरांवर बनलेली असतात. पत्राच्या मुळाशी असलेले व्यंजन मध्यभागी ठेवले जाते आणि सुधारक वरच्या आणि खालच्या स्तरांवर असतात.</string>
+    <string name="menu_home">मुख्यपृष्ठ</string>
+
+    <string name="menu_letters">अक्षरे</string>
+    <string name="menu_words">शब्दकोष</string>
+    <string name="menu_tests">परीक्षा</string>
+    <string name="menu_about">संपर्क</string>
+    <string name="learn_letters">अक्षरे शिका</string>
+    <string name="words_note">व्हिडिओ पहा आणि शब्द कसे बनवायचे ते शिका. आपण संदर्भासाठी अक्षरे पाहू शकता.</string>
+    <string name="developer_name">Developed by Sanket Kudale</string>
+
+    <!--Test Related-->
+    <string name="title">भारती लिपी शब्दांचा मराठी भाषांतर करा</string>
+    <string name="title1">भारती लिपीची वाक्ये मराठीमध्ये अनुवाद करा</string>
+    <string name="answer_box">उत्तर येथे लिहा</string>
+    <string name="ans1">शब्द</string>
+    <string name="ans2">आपण</string>
+    <string name="ans3">पासून</string>
+    <string name="ans4">गरम</string>
+    <string name="ans5">आम्ही</string>
+    <string name="ans6">वेळ</string>
+    <string name="ans7">प्रकाश</string>
+    <string name="ans8">गरज</string>
+    <string name="ans9">आई</string>
+    <string name="ans10">पाहिजे</string>
+    <string name="ans11">पुस्तक</string>
+    <string name="ans12">मानवता</string>
+    <string name="ans13">जीवन</string>
+    <string name="ans14">वातावरण</string>
+    <string name="ans15">प्रेरणा</string>
+    <string name="ans16">पृथ्वी</string>
+    <string name="ans17">बरोबर</string>
+    <string name="ans18">दूरध्वनी</string>
+    <string name="ans19">डोकावणे</string>
+    <string name="ans20">धूर्त</string>
+    <string name="ans21">उत्कृष्ट</string>
+    <string name="ans22">छान</string>
+    <string name="ans23">मित्र</string>
+    <string name="ans24">गट</string>
+    <string name="ans25">उत्तर</string>
+    <string name="ansa1">इथे मराठी पुस्तके कुठे मिळतील</string>
+    <string name="ansa2">बरेच दिवस झाले भेट नाही</string>
+    <string name="ansa3">तुमचा दिवस चांगला जाओ</string>
+    <string name="ansa4">तुम्हाला मराठी बोलता येते का</string>
+    <string name="ansa5">एकच भाषा कधीच पुरेशी नसते</string>
+    <string name="ansa6">तू कसा आहेस</string>
+    <string name="ansa7">तुझं नाव काय आहे</string>
+    <string name="ansa8">मी कधीही हार मानणार नाही</string>
+    <string name="ansa9">मला कॉफी पिण्यास आवडते</string>
+    <string name="ansa10">विज्ञानाच्या पलीकडे गोष्टी अस्तित्वात आहेत</string>
+    <string name="ansa11">माणुसकी हा दर्जापेक्षा श्रेष्ठ आहे</string>
+    <string name="ansa12">नेहमी आपल्या प्रतिबिंब सह स्पर्धा करा</string>
+    <string name="submit">समाप्त</string>
+    <string name="result">निकालपत्रक</string>
+    <string name="your_marks">आपले गुण</string>
+
+    <!--About Us Page-->
+    <string name="d_line1">डेव्हलपर ला संपर्क साधण्यासाठी</string>
+    <string name="d_contact1">7775029787</string>
+    <string name="d_mail1">sksanketkudale@gmail.com</string>
+</resources>
